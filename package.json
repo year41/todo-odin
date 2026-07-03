@@ -1,5 +1,5 @@
 {
-  "name": "template-webpack",
+  "name": "todo-odin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github-second:year41/template-webpack.git"
+    "url": "git@github-second:year41/todo-odin.git"
   },
   "keywords": [],
   "author": "",
